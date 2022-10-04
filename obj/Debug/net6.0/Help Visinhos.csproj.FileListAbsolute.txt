@@ -1,0 +1,21 @@
+D:\Estudos\Help Visinhos\bin\Debug\net6.0\appsettings.Development.json
+D:\Estudos\Help Visinhos\bin\Debug\net6.0\appsettings.json
+D:\Estudos\Help Visinhos\bin\Debug\net6.0\Help Visinhos.exe
+D:\Estudos\Help Visinhos\bin\Debug\net6.0\Help Visinhos.deps.json
+D:\Estudos\Help Visinhos\bin\Debug\net6.0\Help Visinhos.runtimeconfig.json
+D:\Estudos\Help Visinhos\bin\Debug\net6.0\Help Visinhos.dll
+D:\Estudos\Help Visinhos\bin\Debug\net6.0\Help Visinhos.pdb
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\Help Visinhos.csproj.AssemblyReference.cache
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\Help Visinhos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\Help Visinhos.AssemblyInfoInputs.cache
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\Help Visinhos.AssemblyInfo.cs
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\Help Visinhos.csproj.CoreCompileInputs.cache
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\Help Visinhos.MvcApplicationPartsAssemblyInfo.cache
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\staticwebassets.build.json
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\staticwebassets.development.json
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\scopedcss\bundle\Help Visinhos.styles.css
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\Help Visinhos.dll
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\refint\Help Visinhos.dll
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\Help Visinhos.pdb
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\Help Visinhos.genruntimeconfig.cache
+D:\Estudos\Help Visinhos\obj\Debug\net6.0\ref\Help Visinhos.dll
